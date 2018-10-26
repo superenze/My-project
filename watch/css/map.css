@@ -1,0 +1,22 @@
+.bg{
+	background:#efefef;
+}
+.nav-font{
+	max-width:70%;
+	margin:0 auto;
+	font-size:.875rem;
+	color:#000;
+}
+.bg-w{
+	background:#fff;
+	max-width:70%;
+	margin:0 auto;
+}
+.font1{
+	color:#000;
+	font-size:1.25rem;
+}
+.font2{
+	color:#333;
+	font-size:.75rem;
+}
